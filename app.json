@@ -1,0 +1,11 @@
+{
+"reponame":"template-list-view-ad",
+"title":"List View App",
+"tooltip":"[App Designer Ready] This template can be used for simple list view application that has a main view with scrollable list and detail view for each list item, this template can be used for creating applications similar to Mail app, Messages app or Twitter* app.",
+"description":"[App Designer Ready] This template can be used for simple list view application that has a main view with scrollable list and detail view for each list item, this template can be used for creating applications similar to Mail app, Messages app or Twitter* app.",
+"articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
+"visible" : "true",
+"type":"appdesigner",
+"keywords":["App Designer"],
+"highlights" : ["App Designer"]
+}

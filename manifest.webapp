@@ -1,0 +1,17 @@
+{
+  "name": "BeFit",
+  "description": "Be Fit is an app specially designed to train it's user and gain fitness. As because of busy and hectic life, we don't pay any attention to our own health.",
+  "launch_path": "/index.html",
+  "icons": {
+  "60": "/icon.png",
+    "128": "/icon-128.png",
+"120": "/icon-120.png",
+"32": "/icon-32.png",
+"256": "/icon-256.png"
+  },
+  "developer": {
+    "name": "Mohammad Yaseen Khan",
+    "url": "http://your-homepage-here.org"
+  },
+  "default_locale": "en"
+}
